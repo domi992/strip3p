@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="hr">
+<head>
+  <title>Kosarica</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+  <link rel="stylesheet" type="text/css" href="css/kosarica.css" >  
+  <script type="text/javascript" src="scr/kosarica.js"></script>  
+  
+  <link rel="stylesheet" type="text/css" media="screen" href="css/kontakt.css">
+</head>
+
+<body>
+
+<!------------------ kosarica --------------------------!-->
+
+<div id="kos_container" >
+    <div id="grKosarica"></div>
+</div>
+<div id="total_container">
+  <div id="total_div" >Ukupna cijena: 0,00</div>
+</div>
+ <!------------------ narudzba --------------------------!-->
+<div id="narudzba_div">  
+  <div id="contact" >
+  <span class="btnIzdanja boja" id="btnNaIzdanja" >Izdanja</span>
+    <h3>Pošaljite narudžbu</h3>
+    <h4 id="kosPoruka">PODACI NARUČITELJA</h4>
+    
+    <fieldset>
+      <input placeholder="Ime" id="cf_ime" type="text" tabindex="1" required autofocus>
+    </fieldset>
+    <fieldset>
+      <input placeholder="E-mail adresa" id="cf_mail" type="email" tabindex="2" required>
+    </fieldset>
+    <fieldset>
+      <input placeholder="Broj telefona" id="cf_tel" type="tel" tabindex="3" required>
+    </fieldset>
+    <fieldset>
+      <textarea placeholder="Poruka ...." id="cf_por" tabindex="4" required></textarea>
+    </fieldset>
+    <fieldset>
+      <button type="submit" id="btnNaruci">Slanje</button>
+    </fieldset>
+    <br><br>
+  </div>
+</div>
+
+</body>
+</html>

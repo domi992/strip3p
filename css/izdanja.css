@@ -1,0 +1,21 @@
+.container-fluid{
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 20px;
+}
+
+#buybtn{
+  margin: 5px;  
+  width: 80px;
+  left: -40px;
+  position: relative;
+  margin-left: 50%;
+  margin-bottom: 3px;
+}

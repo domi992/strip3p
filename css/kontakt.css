@@ -1,0 +1,87 @@
+﻿.kontakt_div {
+  float:none;
+  max-width: 500px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+
+#contact {
+  background: #F9F9F9;
+  padding: 25px;
+  margin: 30px 0;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+#contact h3 {
+  display: block;
+  font-size: 30px;
+  font-weight: 300;
+  margin-bottom: 10px;
+}
+
+#contact h4 {
+  margin: 5px 0 15px;
+  display: block;
+  font-size: 13px;
+  font-weight: 400;
+}
+
+fieldset {
+  border: medium none;
+  margin: 0 0 10px;
+  min-width: 100%;
+  padding: 0;
+  width: 100%;
+}
+
+
+#contact input {
+  width: 95%;
+  border: 1px solid #ccc;
+  background: #FFF;
+  margin: 0 0 5px;
+  padding: 10px;
+  font: 400 12px/16px  Helvetica, Arial, sans-serif;
+}
+
+
+
+#contact input:hover, #contact textarea:hover {
+    border: 1px solid #aaa;
+}
+
+#contact textarea {
+  height: 100px;
+  max-width: 100%;
+  resize: none;
+  font: 400 12px/16px  Helvetica, Arial, sans-serif;
+  width: 95%;
+  border: 1px solid #ccc;
+  background: #FFF;
+  margin: 0 0 5px;
+  padding: 10px;
+}
+
+#contact button{
+  cursor: pointer;
+  width: 100%;
+  border: none;
+  background: #4CAF50;
+  color: #FFF;
+  margin: 0 0 5px;
+  padding: 10px;
+  font-size: 15px;
+  font: 400 12px/16px  Helvetica, Arial, sans-serif;
+}
+
+#contact button:hover {
+  background: #43A047;
+  -webkit-transition: 0.3s ease-in-out;
+  -moz-transition:  0.3s ease-in-out;
+  transition:  0.3s ease-in-out;
+}
+
+
+
+

@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TABLE>
+<DATA>
+
+<ROW>
+ <ID>1</ID>
+ <naziv>Strip revija br. 1</naziv>
+ <cijena>55.00</cijena>
+ <slika>images/izdanja/SR1.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija/br-1-rujan-2009</lnk>
+ <sadrzaj>
+ Zlatni otok, Obijesni pjetlić, 
+ Puž beskućnik, Atlantida
+ </sadrzaj>
+ <autori>
+ Andrija Maurović Ferdo 
+ Bis Marcel Čukli Norbert 
+ Neugebauer Walter Neugebauer 
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>2</ID>
+ <naziv>Strip revija br. 2</naziv>
+ <cijena>85.00</cijena>
+ <slika>images/izdanja/SR2.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija/br-2-prosinac-2009</lnk>
+ <sadrzaj>
+ Seoba Hrvata, Nježni, 
+ Jaimie McPheeters putuje na istok, 
+ Pero skitnica
+ </sadrzaj>
+ <autori>
+ Andrija Maurović C.D. Russell Ivica 
+ Bednjanec Julio Radilović - Jules 
+ Stanko Radovanović Žrnovački Zvonimir 
+ Furtinge
+ </autori>
+</ROW>
+<ROW>
+ <ID>3</ID>
+ <naziv>Strip revija br. 3</naziv>
+ <cijena>72.15</cijena>
+ <slika>images/izdanja/SR3.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/br-3-studeni-2013/</lnk>
+ <sadrzaj>
+ Seoba Hrvata, Jaimie McPheeters putuje na istok, Francek i Muc, Bez naslova, Gužva na pustom otoku i Pero skitnica
+ </sadrzaj>
+ <autori>
+ Andrija Maurović Bojana Radović C.D. Russell Ivica Bednjanec Julio Radilović - Jules Milena Zajović Mladen Novaković Stanko Radovanović Žrnovački Zlatko Grgić Zvonimir Furting
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>4</ID>
+ <naziv>Strip revija br. 4</naziv>
+ <cijena>95.25</cijena>
+ <slika>images/izdanja/SR4.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/br-4-prosinac-2013/</lnk>
+ <sadrzaj>
+ Bernadetteina pjesma, Jaimie McPheeters putuje na istok, Nježni Mraz, Put vina i Pero skitnica
+ </sadrzaj>
+ <autori>
+ C.D. Russell Darko Pavičić Harold R. Foster Igor Kordej Ivica Bednjanec Jana Adamović Julio Radilović - Jules Milena Zajović Mladen Novaković Zvonimir Furtinger 
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>5</ID>
+ <naziv>Strip revija br. 5</naziv>
+ <cijena>81.30</cijena>
+ <slika>images/izdanja/SR5.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/br-5-sijecanj-2014/</lnk>
+ <sadrzaj>
+ Peanuts, Romeo Brown, Herlock Sholmes, Tiffany Jones i Pero skitnica
+ </sadrzaj>
+ <autori>
+ C.D. Russell Charles Shulz Jenny Butterworth Jim Holdaway Julio Radilović - Jules Pat Tourett Peter O'Donnell Zvonimir Furtinger
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>6</ID>
+ <naziv>Strip revija br. 6</naziv>
+ <cijena>92.20</cijena>
+ <slika>images/izdanja/SR6.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/br-6-veljaca-2014/</lnk>
+ <sadrzaj>
+ Peanuts, Lady S, Srce Juliet Jones, Žene u bijelom, Herlock Sholmes i Pero skitnica
+ </sadrzaj>
+ <autori>
+ C.D. Russell Charles Shulz Jean Van Hamme Julio Radilović - Jules Philippe Aymond Philippe Bercovici Raoul Cauvin Stan Drake Zvonimir Furtinger 
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>7</ID>
+ <naziv>Strip revija br. 7</naziv>
+ <cijena>99.15</cijena>
+ <slika>images/izdanja/SR7.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/br-7-ozujak-2014/</lnk>
+ <sadrzaj>
+ Peanuts, Kobni praznici, Romeo Brown, Žene u bijelom, Lady S i Pero skitnica
+ </sadrzaj>
+ <autori>
+ C.D. Russell Charles Shulz Jean Van Hamme Jim Holdaway Peter O'Donnell Philippe Aymond Philippe Bercovici Raoul Cauvin Vittorio Giardino
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>8</ID>
+ <naziv>Strip revija br. 8</naziv>
+ <cijena>67.55</cijena>
+ <slika>images/izdanja/SR8.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/br-8-travanj-2014/</lnk>
+ <sadrzaj>
+ Peanuts, Janitor, James Bond, Poslejdnja granica, Kobni praznici, Žene u bijelom i Pero skitnica
+ </sadrzaj>
+ <autori>
+ Boris Talijančić C.D. Russell Charles Shulz François Boucq Henry Gammidge John McLusky Milko Peko Philippe Bercovici Raoul Cauvin Vittorio Giardino Yves Sente 
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>9</ID>
+ <naziv>Strip revija br. 9</naziv>
+ <cijena>42.25</cijena>
+ <slika>images/izdanja/SR9.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/br-9-svibanj-2014/</lnk>
+ <sadrzaj>
+ Peanuts, Morocco, James Bond, Žene u bijelom, Janitor i Pero skitnica
+ </sadrzaj>
+ <autori>
+ C.D. Russell Charles Shulz François Boucq Henry Gammidge John McLusky Milan Trenc Philippe Bercovici Raoul Cauvin Yves Sente 
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>10</ID>
+ <naziv>Strip revija br. 10</naziv>
+ <cijena>95.25</cijena>
+ <slika>images/izdanja/SR10.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/br-10-lipanj-2014/</lnk>
+ <sadrzaj>
+ Peanuts, Lady S, Partizani, Žene u bijelom, James Bond, Balkanska rapsodija i Pero skitnica
+ </sadrzaj>
+ <autori>
+ C.D. Russell Charles Shulz Edvin Biuković Henry Gammidge Jean Van Hamme John McLusky Julio Radilović - Jules Philippe Aymond Philippe Bercovici Raoul Cauvin Zvonimir Furtinger 
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>11</ID>
+ <naziv>Strip revija br. 11</naziv>
+ <cijena>76.45</cijena>
+ <slika>images/izdanja/SR11.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/br-11-srpanj-2014/</lnk>
+ <sadrzaj>
+ Peanuts, Biser zla, James Bond, Lady S, Kobni praznici, Žene u bijelom, Gladijator Pegula te Julio i Romea
+ </sadrzaj>
+ <autori>
+ Andrija Maurović Benito Jacovitti Charles Shulz Henry Gammidge Jean Van Hamme John McLusky Nikola Listeš Norbert Neugebauer Philippe Aymond Philippe Bercovici Raoul Cauvin Vittorio Giardino
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>12</ID>
+ <naziv>Strip revija br. 12</naziv>
+ <cijena>79.15</cijena>
+ <slika>images/izdanja/SR12.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/br-12-kolovoz-2014/</lnk>
+ <sadrzaj>
+ Peanuts, Cat Claw, Pustolovine baruna Trenka, James Bond, Žene u bijelom, Gospodar električnih sila i Gladijator Pegula
+ </sadrzaj>
+ <autori>
+ Branislav Kerac Charles Shulz Henry Gammidge Ivica Bednjanec John McLusky Julio Radilović - Jules Nikola Listeš Philippe Bercovici Raoul Cauvin Svetozar Obradović Zvonimir Furtinger 
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>13</ID>
+ <naziv>Strip revija br. 13</naziv>
+ <cijena>95.00</cijena>
+ <slika>images/izdanja/SR13.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/strip-revija-vecernjeg-lista-br-13-ruja-2014/</lnk>
+ <sadrzaj>
+ Reanuts, Janitor, Cat Claw, Posljednja granica, James Bond, Kroz minula stoljeća, Žene u bijelom, Gladijator Pegula i Nježni
+ </sadrzaj>
+ <autori>
+ Boris Talijančić Branislav Kerac Charles Shulz François Boucq Henry Gammidge John McLusky Julio Radilović - Jules Milko Peko Raoul Cauvin Yves Sente Zvonimir Furtinger 
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>14</ID>
+ <naziv>Strip revija br. 14</naziv>
+ <cijena>95.25</cijena>
+ <slika>images/izdanja/SR14.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/strip-revija-vecernjeg-lista-br-14-listopad-2014/</lnk>
+ <sadrzaj>
+ Peanuts, Janitor, Cat Claw. Žene u bijelom, Kroz minula stoljeća. Kobni praznici, Gladijator Pegula i Nježni
+ </sadrzaj>
+ <autori>
+ Branislav Kerac Charles Shulz François Boucq Ivica Bednjanec Julio Radilović - Jules Nikola Listeš Philippe Bercovici Raoul Cauvin Vittorio Giardino Yves Sente Zvonimir Furtinge
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>15</ID>
+ <naziv>Strip revija br. 15</naziv>
+ <cijena>52.65</cijena>
+ <slika>images/izdanja/SR15.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/strip-revija-vecernjeg-lista-br-15-studeni-2014/</lnk>
+ <sadrzaj>
+ Peanuts, Barcelona u zoru, Kroz minula stoljeća, Posljednja granica, Kobni praznici, Žene u bijelom, Gladijator Pegula i Nježni
+ </sadrzaj>
+ <autori>
+ Alfonso Font Boris Talijančić Charles Shulz Ivica Bednjanec Juan Antonio de Blas Julio Radilović - Jules Milko Peko Nikola Listeš Philippe Bercovici Raoul Cauvin Vittorio Giardino Zvonimir Furtinger
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>16</ID>
+ <naziv>Strip revija br. 16</naziv>
+ <cijena>45.95</cijena>
+ <slika>images/izdanja/SR16.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/strip-revija-vecernjeg-lista-br-16-prosinac-2014-2/</lnk>
+ <sadrzaj>
+ Peanuts, Kroz minula stoljeća, Barcelona u zoru, Žene u bijelom, Srce Juliet Jones, Kulinarski klub, Gladijator Pegula i Nježni
+ </sadrzaj>
+ <autori>
+ Alfonso Font Charles Shulz Elliot A. Caplin Igor Vilagoš Ivica Bednjanec Juan Antonio de Blas Julio Radilović - Jules Nikola Listeš Philippe Bercovici Raoul Cauvin Stan Drake Zvonimir Furtinger
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>17</ID>
+ <naziv>Strip revija br. 17</naziv>
+ <cijena>81.15</cijena>
+ <slika>images/izdanja/SR17.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/strip-revija-vecernjeg-lista-br-17-sijecanj-2015/</lnk>
+ <sadrzaj>
+ Peanuts, Posljednja granica, Kroz minula stoljeća, Lady S, Žene u bijelom, Gladijator Pegula i Nježni
+ </sadrzaj>
+ <autori>
+ Boris Talijančić Charles Shulz Ivica Bednjanec Jean Van Hamme Julio Radilović - Jules Milko Peko Nikola Listeš Philippe Aymond Philippe Bercovici Raoul Cauvin Zvonimir Furtinger
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>18</ID>
+
+ <naziv>Strip revija br. 18</naziv>
+ <cijena>95.25</cijena>
+ <slika>images/izdanja/SR18.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/strip-revija-vecernjeg-lista-br-18-veljaca-2015/</lnk>
+ <sadrzaj>
+ Peanuts, Lady S, Kulinarski klub, Kroz minula stoljeća, Priča o uspjehu, Gladijator Pegula i Nježni
+ </sadrzaj>
+ <autori>
+ Boris Talijančić Charles Shulz Ivica Bednjanec Jean Van Hamme Julio Radilović - Jules Milko Peko Nikola Listeš Philippe Aymond Philippe Bercovici Raoul Cauvin Zvonimir Furtinger
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>19</ID>
+ <naziv>Strip revija br. 19</naziv>
+ <cijena>99.95</cijena>
+ <slika>images/izdanja/SR19.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/strip-revija-vecernjeg-lista-br-19-ozujak-2015</lnk>
+ <sadrzaj>
+ Peanuts, Bouncer, Kroz minula stoljeća, Žene u bijelom, Martina Mjesec, Kulinarski klub, Nježni i Gladijator Pegula
+ </sadrzaj>
+ <autori>
+ Alejandro Jodorowsky Charles Shulz Darko Macan François Boucq Goran Sudžuka Igor Vilagoš Ivica Bednjanec Julio Radilović - Jules Nikola Listeš
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>20</ID>
+ <naziv>Strip revija br. 20</naziv>
+ <cijena>77.25</cijena>
+ <slika>images/izdanja/SR20.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/strip-revija-vecernjeg-lista-br-20-travanj-2015/</lnk>
+ <sadrzaj>
+ Bouncer, Crne priče, Kroz minula stoljeća, Gladijator Pegula, Peanuts, Nježni
+ </sadrzaj>
+ <autori>
+ Alejandro Jodorowsky Alfonso Font Charles Shulz François Boucq Ivica Bednjanec Julio Radilović - Jules Nikola Listeš Sergej Mironović Zvonimir Furtinger
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>21</ID>
+ <naziv>Strip revija br. 21</naziv>
+ <cijena>35.55</cijena>
+ <slika>images/izdanja/SR21.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/strip-revija-vecernjeg-lista-br-21-svibanj-2015/</lnk>
+ <sadrzaj>
+ Partizani, Crne priče, Kroz minula stoljeća, Martina Mjesec. Peanuts, Kulinarski klub, Žene u bijelom, Gladijator Pegula, Nježni
+ </sadrzaj>
+ <autori>
+ Alfonso Font Charles Shulz Darko Macan Đorđe Lebović Goran Sudžuka Igor Vilagoš Ivica Bednjanec Julio Radilović - Jules Nikola Listeš Philippe Bercovici Raoul Cauvin Zvonimir Furtinger
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>22</ID>
+ <naziv>Strip revija br. 22</naziv>
+ <cijena>47.15</cijena>
+ <slika>images/izdanja/SR22.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/strip-revija-vecernjeg-lista-br-22-lipanj-2015/</lnk>
+ <sadrzaj>
+ Kroz minula stoljeća, Nackovi sinovi, Crne priče, Martina Mjesec, Peanuts, Partizani, Gladijator Pegula i Nježni
+ </sadrzaj>
+ <autori>
+ Alfonso Font Charles Shulz Darko Macan Đorđe Lebović Goran Sudžuka Igor Vilagoš Ivica Bednjanec Ivo Antič Julio Radilović - Jules Miki Muster Nikola Listeš Zvonimir Furtinger
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>23</ID>
+ <naziv>Strip revija br. 23</naziv>
+ <cijena>72.95</cijena>
+ <slika>images/izdanja/SR23.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/strip-revija-vecernjeg-lista-br-23-srpanj-2015/</lnk>
+ <sadrzaj>
+ Lady S, Crne priče, Četvorica, Hombre, Baća izviđač, Peanuts, Gladijator Pegula i Nježni
+ </sadrzaj>
+ <autori>
+ Alfonso Font Charles Shulz Ivica Bednjanec Jean Van Hamme Julio Radilović - Jules Milan Tomas Nikola Listeš Norbert Neugebauer Peter Wiechmann Philippe Aymond Rafael Méndez Victor Mora 
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>24</ID>
+ <naziv>Strip revija br. 24</naziv>
+ <cijena>55.25</cijena>
+ <slika>images/izdanja/SR24.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/strip-revija-vecernjeg-lista-br-24-kolovoz-2015/</lnk>
+ <sadrzaj>
+ Lady S, Crne priče, Vožnja s vragom, Peanuts, Čarobni lančić, Gladijator Pegula i Baća izviđač
+ </sadrzaj>
+ <autori>
+ Alfonso Font Charles Shulz Jean Van Hamme Julio Radilović - Jules Milan Tomas Nikola Listeš Norbert Neugebauer Philippe Aymond Vjekoslav Radilović
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>25</ID>
+ <naziv>Strip revija br. 25</naziv>
+ <cijena>95.25</cijena>
+ <slika>images/izdanja/SR25.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/strip-revija-vecernjeg-lista-br-25-rujan-2015/</lnk>
+ <sadrzaj>
+ Ponos ratnika, Crne priče, Vožnja s vragom, Inspektor Novak, Peanuts, Gladijator Pegula i Baća izviđač
+ </sadrzaj>
+ <autori>
+ Alfonso Font Andrej Božič Boris Talijančić Charles Shulz Jelko Peternelj Julio Radilović - Jules Milan Tomas Milko Peko Nikola Listeš Norbert Neugebauer
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>26</ID>
+ <naziv>Strip revija br. 26</naziv>
+ <cijena>96.75</cijena>
+ <slika>images/izdanja/SR26.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/strip-revija-vecernjeg-lista-br-26-listopad-2015/</lnk>
+ <sadrzaj>
+ Old Pa Anderson, Munja, Zuzunko, Pejo Pelikan, Cat Claw, Ponos ratnika, Crne priče, Gladijator Pegula i Peanuts
+ </sadrzaj>
+ <autori>
+  Alfonso Font Boris Talijančić Branislav Kerac Charles Shulz Hermann Milko Peko Nikola Listeš Slavko Draginčić YvesH. Zdravko Zupan
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>27</ID>
+ <naziv>Strip revija br. 27</naziv>
+ <cijena>45.55</cijena>
+ <slika>images/izdanja/SR27.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/strip-revija-vecernjeg-lista-br-27-studeni-2015/</lnk>
+ <sadrzaj>
+ Peanuts, Cat Claw, Old Pa Anderson, Crne priče, Ponos ratnika, Gladijator Pegula i Plinska lanterna na Griču
+ </sadrzaj>
+ <autori>
+ Alfonso Font Boris Talijančić Branislav Kerac Charles Shulz Dušan Gačić Hermann Milko Peko Nikola Listeš Slavko Draginčić YvesH.
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>28</ID>
+ <naziv>Strip revija br. 28</naziv>
+ <cijena>98.75</cijena>
+ <slika>images/izdanja/SR28.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/strip-revija-vecernjeg-lista-br-28-prosinac-2015/</lnk>
+ <sadrzaj>
+ Peanuts, Bouncer, Cat Claw, Crne priče, Ponos ratnika, Gladijator Pegula, Kulinarski klub i Božićno drvo
+ </sadrzaj>
+ <autori>
+ Alejandro Jodorowsky Alfonso Font Boris Talijančić Branislav Kerac Charles Shulz Ed Dodd François Boucq Igor Vilagoš Milko Peko Nikola Listeš Slavko Draginčić
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>29</ID>
+ <naziv>Strip revija br. 29</naziv>
+ <cijena>77.75</cijena>
+ <slika>images/izdanja/SR29.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/strip-revija-vecernjeg-lista-br-29-sijecanj-2016/</lnk>
+ <sadrzaj>
+ Peanuts, Bouncer, Hombre, Crne priče, Cat Claw, Gladijator Pegula, i Max i Maksić
+ </sadrzaj>
+ <autori>
+ Alejandro Jodorowsky Alfonso Font Branislav Kerac Charles Shulz François Boucq Nikola Listeš Peter Wiechmann Rafael Méndez Sergej Mironović Slavko Draginčić
+ </autori>
+</ROW>
+
+<ROW>
+ <ID>30</ID>
+ <naziv>Strip revija br. 30</naziv>
+ <cijena>97.27</cijena>
+ <slika>images/izdanja/SR30.jpg</slika>
+ <lnk>http://www.stripforum.hr/strip-revija-vl/strip-revija-vecernjeg-lista-br-30-veljaca-2016</lnk>
+ <sadrzaj>
+ Jezive radosti, Peanuts, Hombre, Crne priče, Cat Claw, Baš-Čelik, Gladijator Pegula, Bača izviđač
+ </sadrzaj>
+ <autori>
+ Alfonso Font Andrija Maurović Branislav Kerac Charles Shulz Julio Radilović - Jules Michal Suchánek Nikola Listeš Norbert Neugebauer Ondřej Neff Peter Wiechmann Rafael Méndez Slavko Draginčić
+ </autori>
+</ROW>
+
+</DATA>
+</TABLE>
